@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.50b0bc5a.css",
-    "main.js": "/static/js/main.c590eecc.js",
+    "main.js": "/static/js/main.3b0c3f95.js",
     "static/js/522.5ca4d995.chunk.js": "/static/js/522.5ca4d995.chunk.js",
     "static/media/EnchantaHeadshot.png": "/static/media/EnchantaHeadshot.77ccffca54f195c1decc.png",
     "static/media/FrankHeadshot.png": "/static/media/FrankHeadshot.8f5430a09d4eb7fda40a.png",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.50b0bc5a.css",
-    "static/js/main.c590eecc.js"
+    "static/js/main.3b0c3f95.js"
   ]
 }
